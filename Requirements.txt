@@ -1,0 +1,8 @@
+customtkinter
+speechrecognition
+pyttsx3
+psutil
+sounddevice
+numpy
+python-dotenv
+google-generativeai
